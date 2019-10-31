@@ -8,6 +8,6 @@ public class Demop {
 public void sample()
 {
 
-	Reporter.log("Hello",true);
+	Reporter.log("bye",true);
 }
 }
